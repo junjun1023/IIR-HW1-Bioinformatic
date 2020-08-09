@@ -1,0 +1,383 @@
+>NC_000001.11 Homo sapiens chromosome 1, GRCh38.p13 Primary Assembly
+
+>NT_187361.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG1_UNLOCALIZED
+
+>NT_187362.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG2_UNLOCALIZED
+
+>NT_187363.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG3_UNLOCALIZED
+
+>NT_187364.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG4_UNLOCALIZED
+
+>NT_187365.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG5_UNLOCALIZED
+
+>NT_187366.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG6_UNLOCALIZED
+
+>NT_187367.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG7_UNLOCALIZED
+
+>NT_187368.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG8_UNLOCALIZED
+
+>NT_187369.1 Homo sapiens chromosome 1 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR1_CTG9_UNLOCALIZED
+
+>NC_000002.12 Homo sapiens chromosome 2, GRCh38.p13 Primary Assembly
+
+>NT_187370.1 Homo sapiens chromosome 2 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR2_RANDOM_CTG1
+
+>NT_187371.1 Homo sapiens chromosome 2 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR2_RANDOM_CTG2
+
+>NC_000003.12 Homo sapiens chromosome 3, GRCh38.p13 Primary Assembly
+
+>NT_167215.1 Homo sapiens chromosome 3 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR3UN_CTG2
+
+>NC_000004.12 Homo sapiens chromosome 4, GRCh38.p13 Primary Assembly
+
+>NT_113793.3 Homo sapiens chromosome 4 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR4_RANDOM_CTG4
+
+>NC_000005.10 Homo sapiens chromosome 5, GRCh38.p13 Primary Assembly
+
+>NT_113948.1 Homo sapiens chromosome 5 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR5_RANDOM_CTG1
+
+>NC_000006.12 Homo sapiens chromosome 6, GRCh38.p13 Primary Assembly
+
+>NC_000007.14 Homo sapiens chromosome 7, GRCh38.p13 Primary Assembly
+
+>NC_000008.11 Homo sapiens chromosome 8, GRCh38.p13 Primary Assembly
+
+>NC_000009.12 Homo sapiens chromosome 9, GRCh38.p13 Primary Assembly
+
+>NT_187372.1 Homo sapiens chromosome 9 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR9_UNLOCALIZED_CTG1
+
+>NT_187373.1 Homo sapiens chromosome 9 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR9_UNLOCALIZED_CTG2
+
+>NT_187374.1 Homo sapiens chromosome 9 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR9_UNLOCALIZED_CTG3
+
+>NT_187375.1 Homo sapiens chromosome 9 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR9_UNLOCALIZED_CTG4
+
+>NC_000010.11 Homo sapiens chromosome 10, GRCh38.p13 Primary Assembly
+
+>NC_000011.10 Homo sapiens chromosome 11, GRCh38.p13 Primary Assembly
+
+>NT_187376.1 Homo sapiens chromosome 11 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR11_CTG1_UNLOCALIZED
+
+>NC_000012.12 Homo sapiens chromosome 12, GRCh38.p13 Primary Assembly
+
+>NC_000013.11 Homo sapiens chromosome 13, GRCh38.p13 Primary Assembly
+
+>NC_000014.9 Homo sapiens chromosome 14, GRCh38.p13 Primary Assembly
+
+>NT_113796.3 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG1_UNLOCALIZED
+
+>NT_167219.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG2_UNLOCALIZED
+
+>NT_187377.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG3_UNLOCALIZED
+
+>NT_113888.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG4_UNLOCALIZED
+
+>NT_187378.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG5_UNLOCALIZED
+
+>NT_187379.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG6_UNLOCALIZED
+
+>NT_187380.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG7_UNLOCALIZED
+
+>NT_187381.1 Homo sapiens chromosome 14 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR14_CTG8_UNLOCALIZED
+
+>NC_000015.10 Homo sapiens chromosome 15, GRCh38.p13 Primary Assembly
+
+>NT_187382.1 Homo sapiens chromosome 15 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR15_RANDOM_CTG1
+
+>NC_000016.10 Homo sapiens chromosome 16, GRCh38.p13 Primary Assembly
+
+>NT_187383.1 Homo sapiens chromosome 16 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR16_RANDOM_CTG1
+
+>NC_000017.11 Homo sapiens chromosome 17, GRCh38.p13 Primary Assembly
+
+>NT_113930.2 Homo sapiens chromosome 17 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR17_RANDOM_CTG3
+
+>NT_187384.1 Homo sapiens chromosome 17 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR17_RANDOM_CTG4
+
+>NT_187385.1 Homo sapiens chromosome 17 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR17_RANDOM_CTG5
+
+>NC_000018.10 Homo sapiens chromosome 18, GRCh38.p13 Primary Assembly
+
+>NC_000019.10 Homo sapiens chromosome 19, GRCh38.p13 Primary Assembly
+
+>NC_000020.11 Homo sapiens chromosome 20, GRCh38.p13 Primary Assembly
+
+>NC_000021.9 Homo sapiens chromosome 21, GRCh38.p13 Primary Assembly
+
+>NC_000022.11 Homo sapiens chromosome 22, GRCh38.p13 Primary Assembly
+
+>NT_187386.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG1
+
+>NT_187387.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG2
+
+>NT_187388.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG3
+
+>NT_187389.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG4
+
+>NT_187390.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG5
+
+>NT_187391.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG6
+
+>NT_187392.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG7
+
+>NT_187393.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG8
+
+>NT_187394.1 Homo sapiens chromosome 22 unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHR22_UNLOCALIZED_CTG9
+
+>NC_000023.11 Homo sapiens chromosome X, GRCh38.p13 Primary Assembly
+
+>NC_000024.10 Homo sapiens chromosome Y, GRCh38.p13 Primary Assembly
+
+>NT_187395.1 Homo sapiens chromosome Y unlocalized genomic scaffold, GRCh38.p13 Primary Assembly HSCHRY_RANDOM_CTG1
+
+>NT_187396.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_100
+
+>NT_187397.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_101
+
+>NT_187398.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_102
+
+>NT_187399.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_103
+
+>NT_187400.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_104
+
+>NT_187401.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_105
+
+>NT_187402.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_106
+
+>NT_187403.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_107
+
+>NT_187404.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_108
+
+>NT_187405.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_109
+
+>NT_187406.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_110
+
+>NT_187407.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_111
+
+>NT_187408.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_112
+
+>NT_187409.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_113
+
+>NT_187410.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_114
+
+>NT_187411.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_115
+
+>NT_187412.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_116
+
+>NT_187413.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_117
+
+>NT_187414.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_118
+
+>NT_187415.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_119
+
+>NT_187416.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_120
+
+>NT_187417.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_121
+
+>NT_187418.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_122
+
+>NT_187419.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_123
+
+>NT_187420.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_124
+
+>NT_187421.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_125
+
+>NT_187422.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_126
+
+>NT_187423.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_127
+
+>NT_187424.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_128
+
+>NT_187425.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_129
+
+>NT_187426.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_130
+
+>NT_187427.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_131
+
+>NT_187428.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_132
+
+>NT_187429.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_133
+
+>NT_187430.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_134
+
+>NT_187431.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_135
+
+>NT_187432.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_136
+
+>NT_187433.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_137
+
+>NT_187434.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_138
+
+>NT_187435.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_139
+
+>NT_187436.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_140
+
+>NT_187437.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_141
+
+>NT_187438.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_142
+
+>NT_187439.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_143
+
+>NT_187440.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_144
+
+>NT_187441.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_145
+
+>NT_187442.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_146
+
+>NT_187443.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_147
+
+>NT_187444.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_148
+
+>NT_187445.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_149
+
+>NT_187446.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_154
+
+>NT_187447.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_155
+
+>NT_187448.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_156
+
+>NT_187449.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_157
+
+>NT_187450.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_158
+
+>NT_187451.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_159
+
+>NT_187452.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_160
+
+>NT_187453.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_161
+
+>NT_187454.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_162
+
+>NT_187455.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_163
+
+>NT_187456.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_164
+
+>NT_187457.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_165
+
+>NT_187458.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_166
+
+>NT_187459.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_167
+
+>NT_187460.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_168
+
+>NT_187461.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_169
+
+>NT_187462.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_170
+
+>NT_187463.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_171
+
+>NT_187464.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_172
+
+>NT_187465.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_173
+
+>NT_187466.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_174
+
+>NT_187467.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_175
+
+>NT_187468.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_176
+
+>NT_187469.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_177
+
+>NT_187470.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_178
+
+>NT_187471.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_179
+
+>NT_187472.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_180
+
+>NT_187473.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_181
+
+>NT_187474.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_182
+
+>NT_187475.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_183
+
+>NT_187476.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_184
+
+>NT_187477.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_185
+
+>NT_187478.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_186
+
+>NT_187479.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_187
+
+>NT_187480.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_188
+
+>NT_187481.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_189
+
+>NT_187482.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_190
+
+>NT_187483.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_191
+
+>NT_187484.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_192
+
+>NT_187485.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_193
+
+>NT_187486.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_194
+
+>NT_187487.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_195
+
+>NT_187488.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_196
+
+>NT_187489.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_197
+
+>NT_187490.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_198
+
+>NT_187491.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_199
+
+>NT_187492.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_200
+
+>NT_187493.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_201
+
+>NT_187494.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_202
+
+>NT_187495.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_203
+
+>NT_187496.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_204
+
+>NT_113901.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG1
+
+>NT_167213.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG10
+
+>NT_167214.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG11
+
+>NT_167218.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG16
+
+>NT_187497.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG17
+
+>NT_167220.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG19
+
+>NT_167208.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG2
+
+>NT_187498.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG20
+
+>NT_187499.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG21
+
+>NT_187500.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG22
+
+>NT_187501.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG23
+
+>NT_187502.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG24
+
+>NT_187503.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG25
+
+>NT_187504.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG26
+
+>NT_187505.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG27
+
+>NT_187506.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG28
+
+>NT_187508.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG30
+
+>NT_187509.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG33
+
+>NT_187510.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG34
+
+>NT_187511.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG35
+
+>NT_187512.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG36
+
+>NT_167209.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG4
+
+>NT_187513.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG42
+
+>NT_167211.2 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG6
+
+>NT_113889.1 Homo sapiens unplaced genomic scaffold, GRCh38.p13 Primary Assembly HSCHRUN_RANDOM_CTG9
