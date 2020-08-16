@@ -1,6 +1,6 @@
 # IIR-HW1-Bioinformatic
 
-["Assingment Description"]("https://hackmd.io/yRa9PEfwQXKHwPzv0lnXmw")
+[Assingment Description](https://hackmd.io/yRa9PEfwQXKHwPzv0lnXmw)
 
 ## Implementing (plain) Markov models of order 0,1 and 2
 - result:
