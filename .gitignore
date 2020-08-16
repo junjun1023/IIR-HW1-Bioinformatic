@@ -1,1 +1,5 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Additional file
 GRCh38_latest_genomic.fna

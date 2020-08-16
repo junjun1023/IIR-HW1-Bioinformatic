@@ -57,6 +57,7 @@ class Genomic(object):
         return ret
 
 
+
     def get_order(self, source, order=0, base='atcg'):
 
         key_value = {}
@@ -72,7 +73,7 @@ class Genomic(object):
                 source = self._source
 
         source = source.lower()
-        total = len(source)
+        total = len(source) - order
         for i in range(len(source)-order):
             k = source[i:i+order+1]
             key_value[k] += 1
@@ -88,7 +89,7 @@ class Genomic(object):
             times = key_value[k]
             prob = prob + times * v
 
-        print(prob)
+        # print(prob)
             
 
         return prob
