@@ -74,13 +74,31 @@ class Genomic(object):
 
         source = source.lower()
         total = len(source) - order
+
+        # Additional handling for first n order text
+        for _ in range(order):
+            source = " " + source + " "
+
+        # Add additional keys
+        # For leading only
+        for i in range(order):
+            k = source[i:i+order+1].strip()
+            key_value[k] = 0
+
         for i in range(len(source)-order):
-            k = source[i:i+order+1]
-            key_value[k] += 1
+            k = source[i:i+order+1].strip()
+            if k in key_value:
+                key_value[k] += 1
+
+        # print(key_value)
 
         prob_key_value = {}
         for k, v in key_value.items():
-            prob = v/total
+            prob = 2
+            if len(k) in range(1, order+1):
+                prob = v/(total+order-len(k)+1)
+            else:
+                prob = v/total
             prob_ln = math.log2(prob)
             prob_key_value[k] = prob_ln
 
