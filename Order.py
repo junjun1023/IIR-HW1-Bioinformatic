@@ -61,10 +61,12 @@ class Genomic(object):
     def get_order(self, source, order=0, base='atcg'):
 
         key_value = {}
-        keys = itertools.product(base, repeat=order+1)
-        for key in keys:
-            k = ''.join(key)
-            key_value[k] = 0
+
+        for i in range(order+1):
+            keys = itertools.product(base, repeat=i+1)
+            for key in keys:
+                k = ''.join(key)
+                key_value[k] = 0
 
         if source == None:
             if self._source == None:
@@ -73,39 +75,48 @@ class Genomic(object):
                 source = self._source
 
         source = source.lower()
-        total = len(source) - order
-
-        # Additional handling for first n order text
-        for _ in range(order):
-            source = " " + source + " "
+        total = len(source)
 
         # Add additional keys
         # For leading only
-        for i in range(order):
-            k = source[i:i+order+1].strip()
-            key_value[k] = 0
+        # for i in range(order):
+        #     k = source[0:i+1]
+        #     key_value[k] = 0
 
-        for i in range(len(source)-order):
-            k = source[i:i+order+1].strip()
-            if k in key_value:
-                key_value[k] += 1
+        for i in range(total):
+            for j in range(order+1):
+                k = source[i:i+j+1]
+                if k in key_value:
+                    key_value[k] += 1
 
         # print(key_value)
 
         prob_key_value = {}
         for k, v in key_value.items():
             prob = 2
-            if len(k) in range(1, order+1):
-                prob = v/(total+order-len(k)+1)
-            else:
+            if len(k) == 1:
                 prob = v/total
+            else:
+                k2 = k[:-1]
+                
+                if k2 in key_value:
+                    prob = v/key_value[k2]
+                    # print(k, k2, prob)
+                    
             prob_ln = math.log2(prob)
             prob_key_value[k] = prob_ln
 
+        # print(prob_key_value)
+        
         prob = 0
-        for k, v in prob_key_value.items():
-            times = key_value[k]
-            prob = prob + times * v
+        for i in range(order):
+            key = source[0:i+1]
+            prob += prob_key_value[key]
+
+        for i in range(total-order):
+            key = source[i:i+order+1]
+            prob += prob_key_value[key]
+
 
         # print(prob)
             
