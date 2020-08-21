@@ -1,0 +1,7 @@
+
+main:- start 9641984
+Done Extract: 5758976
+Done Order 0: 6021120
+Done Order 1: 6041600
+Done Order 2: 6086656
+Done HMM: 15577088
