@@ -1,7 +1,10 @@
-
-main:- start 9641984
-Done Extract: 5758976
-Done Order 0: 6021120
-Done Order 1: 6041600
-Done Order 2: 6086656
-Done HMM: 15577088
+Done Extract: 114688bytes 
+Done Extract: 18.92310404777527sec 
+Done Order 0: 110592bytes 
+Done Order 0: 0.07903885841369629sec 
+Done Order 1: 4096bytes 
+Done Order 1: 0.1321098804473877sec 
+Done Order 2: 12288bytes 
+Done Order 2: 0.1832728385925293sec 
+Done HMM: 6742016bytes 
+Done HMM: 61.87818193435669sec 
