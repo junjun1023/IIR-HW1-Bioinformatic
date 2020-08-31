@@ -1,10 +1,10 @@
-Done Extract: 114688bytes 
-Done Extract: 18.92310404777527sec 
-Done Order 0: 110592bytes 
-Done Order 0: 0.07903885841369629sec 
-Done Order 1: 4096bytes 
-Done Order 1: 0.1321098804473877sec 
-Done Order 2: 12288bytes 
-Done Order 2: 0.1832728385925293sec 
-Done HMM: 6742016bytes 
-Done HMM: 61.87818193435669sec 
+Done Extract: 110592 bytes 
+Done Extract: 21.40302586555481 sec 
+Done Order 0: 110592 bytes 
+Done Order 0: 0.0856618881225586 sec 
+Done Order 1: 4096 bytes 
+Done Order 1: 0.14982295036315918 sec 
+Done Order 2: 12288 bytes 
+Done Order 2: 0.17436885833740234 sec 
+Done HMM: 6696960 bytes 
+Done HMM: 60.708730936050415 sec 
